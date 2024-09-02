@@ -49,7 +49,7 @@
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
-<a href="https://www.sidefx.com/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Houdini_(software)#/media/File:Houdini3D_icon.png" alt="Houdini" height="50" /></a>
+<a href="https://www.sidefx.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="Houdini" height="50" /></a>
 <a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Unreal_Engine#/media/File:Unreal_Engine_Logo.svg" alt="UnrealEngine" height="50" /></a>
 </div>
 
