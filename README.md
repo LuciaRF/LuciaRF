@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [OpenGL motor](https://github.com/LuciaRF/newOpenGL-motor)  
   
 
-- 🌱 I’m currently learning Deep Learning with python  
+- 🌱 I’m currently learning Deep Learning with python and Amazon Web Services (AWS)  
   
 
 - ⚡ Fun fact: I am a Technical Artist in progress  
