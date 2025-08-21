@@ -6,7 +6,7 @@
 ### <div align="center">Telecommunications engineer specializing in emerging technologies.🖥️</div>  
   
 
-- 🔭 I’m currently working on [OpenGL motor](https://github.com/LuciaRF/newOpenGL-motor)  
+- 🔭 I’m currently working on [data analyst](https://github.com/LuciaRF/data-analyst)  
   
 
 - 🌱 I’m currently learning Deep Learning with python and Amazon Web Services (AWS)  
