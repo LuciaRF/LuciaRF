@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Telecommunications engineer specializing in emerging technologies.🖥️</div>  
+### <div align="center">Software engineer specializing in emerging technologies.🖥️</div>  
   
 
-- 🔭 I’m currently working on [data analyst](https://github.com/LuciaRF/data-analyst)  
+- 🔭 I’m currently working on Star Wars Game.
   
 
-- 🌱 I’m currently learning Deep Learning with python and Amazon Web Services (AWS)  
+- 🌱 I’m currently improving my Unity skills.
   
 
-- ⚡ Fun fact: I am a Technical Artist in progress  
+- ⚡ Fun fact: I am a Technical Artist in progress.
   
 
 - 🚀 Future objective: continue improving my portfolio.  
