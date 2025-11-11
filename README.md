@@ -6,7 +6,7 @@
 ### <div align="center">Software engineer specializing in emerging technologies.🖥️</div>  
   
 
-- 🔭 I’m currently working on Star Wars Game.
+- 🔭 I’m currently working on my own game.
   
 
 - 🌱 I’m currently improving my Unity skills.
